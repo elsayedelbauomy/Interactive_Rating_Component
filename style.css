@@ -95,6 +95,7 @@ main button {
     font-weight: bold;
     letter-spacing: 1px;
     transition: .3s;
+    cursor:pointer;
 }
 
 main button:hover {
